@@ -17,3 +17,13 @@ services:
       ENVIRONMENT: prod
       DB_NAME: portafolio_db
       DB_USER: convocat
+      
+volumes:
+    portafolio-data:
+    portafolio-static:
+    portafolio-resources:
+    portafolio-media:
+networks:
+  default:
+    external:
+      name: proxyssl_alcaldianetwork
