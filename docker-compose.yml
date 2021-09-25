@@ -13,7 +13,7 @@ services:
 
     environment:
       VIRTUAL_HOST: plants.diegoasencio.co
-      VIRTUAL_PORT: 8009
+      VIRTUAL_PORT: 8010
       ENVIRONMENT: prod
       DB_NAME: portafolio_db
       DB_USER: convocat
