@@ -3,7 +3,7 @@ version: '3'
 services:
   portafolio:
     container_name: portafolio
-    image: diegoasencio96/portafolio:0.0.1
+    image: diegoasencio96/portafolio:0.0.2
     ports:
       - "8010"
     volumes:
