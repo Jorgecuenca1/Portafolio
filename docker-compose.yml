@@ -5,7 +5,7 @@ services:
     container_name: portafolio
     image: diegoasencio96/portafolio:0.0.1
     ports:
-      - "8008"
+      - "8010"
     volumes:
       - portafolio-static:/app/portafolio/static
       - portafolio-resources:/app/portafolio/resources
