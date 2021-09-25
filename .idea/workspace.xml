@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d88d4d56-0bf7-4701-9216-fc86aa76b305" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../portafolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../portafolio/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
